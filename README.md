@@ -22,7 +22,7 @@
   
  6. To Decompile the extracted Binary files,used the following Github Gist for Python3:
         
-         https://gist.github.com/Integ/bcac5c21de5ea35b63b3db2c725f07ad      
+   https://gist.github.com/Integ/bcac5c21de5ea35b63b3db2c725f07ad      
   
         >*python unwxapkg.py /<path to wxapkg files>/<wxapkg filename>*
   
