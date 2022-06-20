@@ -24,7 +24,7 @@
         
    https://gist.github.com/Integ/bcac5c21de5ea35b63b3db2c725f07ad      
   
-        >*python unwxapkg.py /<path to wxapkg files>/<wxapkg filename>*
+        *python unwxapkg.py /<path to wxapkg files>/<wxapkg filename>*
   
   For Python2, 
   https://gist.github.com/feix/32ab8f0dfe99aa8efa84f81ed68a0f3e
