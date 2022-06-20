@@ -11,9 +11,11 @@
         # mount -o rw,remount /data
   
 4. Copy the entire folder to internal storage
+       
          # cp -R data/data/com.tencent.mm/MicroMsg/a505c04df05cb788e53e736b8ffba461/appbrand/pkg/ /sdcard/
   
   or, Copy one particular wxapkg file and exit the adb shell:
+       
          # cp data/data/com.tencent.mm/MicroMsg/a505c04df05cb788e53e736b8ffba461/appbrand/pkg/<wxapkg filename> /sdcard/
          # exit
          $ exit
