@@ -27,13 +27,9 @@
   
          $ adb pull /sdcard/<path in the mobile>/<wxapkg filename> <path to the computer>
   
- 6. To Decompile the extracted Binary files,used the following Github Gist for Python3:
+ 6. To Decompile the extracted Binary files,used the following Github repo for Python3:
         
-   https://gist.github.com/Integ/bcac5c21de5ea35b63b3db2c725f07ad      
-  
-         $ python unwxapkg.py /<path to wxapkg files>/<wxapkg filename>
-  
-  For Python2, 
-  https://gist.github.com/feix/32ab8f0dfe99aa8efa84f81ed68a0f3e
+               https://github.com/Supraja9726/decrypt-unpack-wxapkg    
+    
   
  
